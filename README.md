@@ -1,2 +1,4 @@
 # mini-site
-Created with CodeSandbox
+Mini site with CSS styles
+
+
